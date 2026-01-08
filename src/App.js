@@ -1,10 +1,11 @@
 import React from 'react';
+import { Calculator2 } from './Calculator';
 import Button from './class-components';
 
 
 
 function App() {
-  return <Button/>
+  return <Calculator2/>
        
 }
 
